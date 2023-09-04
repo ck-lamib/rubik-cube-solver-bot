@@ -1,6 +1,13 @@
 # Rubik cube solver
 To run the program, run the main.py file:
+
+For window: 
+
 > python main.py
+
+For mac: 
+
+> python3 main.py
 
 
 ## The facelet positions of the cube should be like this:
